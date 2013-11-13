@@ -66,3 +66,22 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
+
+/*
+Ecco i Titoli
+ 
+Markup: 
+<h1>Titolo 1</h1>
+<h2>Titolo 2</h2>
+ 
+Styleguide 1
+*/
+/* line 10, ../sass/_typo.scss */
+h1 {
+  color: red;
+}
+
+/* line 14, ../sass/_typo.scss */
+h2 {
+  color: blue;
+}
