@@ -1,0 +1,16 @@
+{
+  "name": "KSS",
+  "author": "Fabio Fabbrucci",
+  "copyright": "2013",
+  "version": "0.0.1",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Fabio Fabbrucci",
+      "email": "fabio.fabbrucci@gmail.com"
+    }
+  ],
+  "devDependencies": {
+    "kss": "~0.3.6"
+  }
+}
